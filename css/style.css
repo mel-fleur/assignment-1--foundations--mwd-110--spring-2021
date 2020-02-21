@@ -3,6 +3,7 @@ body {
   border: 10px dotted #66a2a3;
   border-radius: 20px;
   width: 1500px;
+  margin-left: 10%;
 }
 header {
    text-align: center;
