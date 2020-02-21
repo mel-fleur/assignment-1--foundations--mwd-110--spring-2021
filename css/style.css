@@ -3,3 +3,6 @@ body {
   border: 10px solid blue;
   border-radius: 20px;
 }
+h1 {
+   text-align: center;
+}
