@@ -6,6 +6,7 @@ body {
 header {
    text-align: center;
    background-color: #7b8f8c;
+   margin: auto;
 }
 nav {
    text-align: center;
