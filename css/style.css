@@ -25,6 +25,9 @@ h2 {
    font-family: 'Zilla Slab', sans-serif;
    font-size: 30px;
 }
+section {
+   padding: 2%;
+}
 p {
    text-align: center;
    font-family: 'Raleway', sans-serif;
