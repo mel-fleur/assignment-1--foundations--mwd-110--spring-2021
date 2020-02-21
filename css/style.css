@@ -2,9 +2,9 @@ body {
   background-color: #9ed5cf;
   border: 10px dotted #66a2a3;
   border-radius: 20px;
-  padding: 1%;
   width: 1440px;
   margin: auto;
+  padding: .5%;
 }
 header {
    text-align: center;
