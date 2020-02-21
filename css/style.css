@@ -16,6 +16,8 @@ nav {
 }
 h2 {
    text-align: center;
+   font-family: 'Zilla Slab', sans-serif;
+   font-size: 30px;
 }
 p {
    text-align: center;
