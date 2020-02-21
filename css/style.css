@@ -26,6 +26,9 @@ h2 {
    font-family: 'Zilla Slab', sans-serif;
    font-size: 30px;
 }
+h3 {
+   text-align: center;
+}
 section {
    padding: 2%;
 }
