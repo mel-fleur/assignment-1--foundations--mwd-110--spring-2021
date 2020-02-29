@@ -23,7 +23,7 @@ Ensure the [axe plugin](https://www.deque.com/axe/) is installed in Firefox. The
 Once installed, verify the installation. Bring up Firefox’s dev tools, then, in the row of tabs on the top, look for “axe” at the end on the right.
 
 ### W3C Validation
-Ensure you’re using the [`w3c-validation` package](https://atom.io/packages/w3c-validation) for Atom. If you’re not, install it.
+Ensure you’re using the [`w3c-validation` package](hindexttps://atom.io/packages/w3c-validation) for Atom. If you’re not, install it.
 
 Verify that it’s working by opening an HTML document in Atom, then saving. Errors are reported in Atom’s lower left corner when the document is saved.
 
