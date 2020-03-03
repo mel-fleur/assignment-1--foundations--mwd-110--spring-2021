@@ -32,7 +32,6 @@ Verify that it’s working by opening an HTML document in Atom, then saving. Err
 ---
 
 ## Directions
-* You may **not** use any libraries, such as Bootstrap, for this assignment.
 * The three pages you create *must* be `index.html`, `contact.html`, and `about.html`.
 * The `index` page must contain some basic information about you/your subject. A paragraph will suffice.
 * The `index` page must also contain an image of you/your subject. It may be `.jpg`, `.jpeg`, `.png`, `.gif`, or `.svg` and cannot be larger than 1MB in size. It *must* be placed in the `img` folder.
